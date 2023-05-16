@@ -27,4 +27,7 @@
     .nav-pills{
        display: none;
     }
+     .chip-container{
+        padding-top: 6rem !important;
+    }
 }
